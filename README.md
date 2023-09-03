@@ -4,9 +4,9 @@ Presento mis analisis sobre "Produccion agricola en la region Cusco 2018 - 2020"
 Plataforma Nacional de Datos Abiertos. Este analisis lo hice para la la Dataton que realiza el PCM, con el objetivo de que la
 ciudadania participe y analice los datos de las entidades participantes.
 ### Hallazgos:
-#### Porcentajes por período agrícola y provincia: En la region Cusco, la provincia de Quispicanchi es la que durante los periodos de 2018 - 2020
-  mantiene su liderato de produccion agricola, vemos una fuerte caida en la provincia de La Convencion y la provincia de Espinar es la que tiene
-  menor produccion agricola entre todas.
+#### Porcentajes por período agrícola y provincia:
+  * En la region Cusco, la provincia de Quispicanchi es la que durante los periodos de 2018 - 2020 mantiene su liderato de produccion agricola,
+    vemos una fuerte caida en la provincia de La Convencion y la provincia de Espinar es la que tiene menor produccion agricola entre todas.
   
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/a71bd4cd-91df-4f6d-bbc0-2c1afce49b07)
   
@@ -14,9 +14,10 @@ ciudadania participe y analice los datos de las entidades participantes.
 
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/8d951626-c483-47f1-8962-343ec1f859e9)
 
-#### Analizando la provincia de Chumbivilcas: Provincia donde radico y la que no tiene analisis estadisticos en motores de busqueda de internet, tenemos
-  la distribucion de periodos agricolas del 2018 - 2020 de los distritos, notamos que Livitaca tiene una fluctuacion de densidad abrupta, los
-  demas distritos se mantienen constantes y vemos que el distrito de Velille tiene menor valor de produccion antes los demas.
+#### Analizando la provincia de Chumbivilcas:
+  * Provincia donde radico y la que no tiene analisis estadisticos en motores de busqueda de internet, tenemos la distribucion de periodos agricolas del
+    2018 - 2020 de los distritos, notamos que Livitaca tiene una fluctuacion de densidad abrupta, los demás distritos se mantienen constantes y vemos que
+    el distrito de Velille tiene menor valor de produccion antes los demas.
   
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/c2a8819c-ad53-4bef-a498-be8cded29ea0)
   
@@ -32,14 +33,15 @@ ciudadania participe y analice los datos de las entidades participantes.
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/74fd70a6-1a1b-422a-9e7e-57ad34eec738)
   
   * Además hice un analisis de precio de chacra, con variables estadisticas, obteniendo:
-    La media es: 1.6 --> Se paga un promedio de 1.6/Kg.
-    La mediana es: 1.4 --> El valor central es 1.4, significa que el 50% ienen un precio de chacra igual o menor que 1.5 y el otro 50% tiene un precio igual o mayor que 1.4.
-    La moda es: 0    1.8 --> Valores que aparecen con mayor frecuencia en una muestra.
+    - La media es: 1.6 --> Se paga un promedio de 1.6/Kg.
+    - La mediana es: 1.4 --> El valor central es 1.4, significa que el 50% ienen un precio de chacra igual o menor que 1.5 y el otro 50% tiene un precio igual o mayor que 1.4.
+    - La moda es: 0    1.8 --> Valores que aparecen con mayor frecuencia en una muestra.
     
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/39296426-15df-4ff6-aa8a-f249a7a6b459)
 
-#### Analizando el distrito de Velille: Distrito donde radico y no hay analisis estadistico en motores de busqueda de internet, por eso opte en analizarlo, la
-  cantidad total de cultivo producido es muy baja a medida que aumenta.
+#### Analizando el distrito de Velille:
+  * Distrito donde radico y no hay analisis estadistico en motores de busqueda de internet, por eso opte en analizarlo, la cantidad total de cultivo producido es muy baja
+    a medida que aumenta.
   
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/e5ffb096-f7bd-4e32-a857-4347d9fa5cdf)
   
@@ -52,9 +54,9 @@ ciudadania participe y analice los datos de las entidades participantes.
   ![image](https://github.com/rhoguevara/Expresate-Peru-Con-Datos/assets/112536136/eae011ba-6404-40d3-a750-ef9705ccf3cf)
 
   * En Velille, el promedio del precio de chacra es menor, la mediana y la moda, quiere decir que los precios son mas varatos.
-    La media es: 1.4
-    La mediana es: 1.2
-    La moda es: 0    1.2
+    - La media es: 1.4
+    - La mediana es: 1.2
+    - La moda es: 0    1.2
 
 ### Propuestas de soluciones:
 * Optimizar cultivos: En base al rendimeinto, se podria priorizar en Velille poder cultivar la avena de grano y quinua, en particular la quinua tiene un valor alto
